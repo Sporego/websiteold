@@ -1,0 +1,26 @@
+{
+  "name": "filbert.io",
+  "version": "1.0.0",
+  "description": "personal website for Filbert Shi @ filbert.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sporego/filbert.io.git"
+  },
+  "keywords": [
+    "react",
+    "heroku",
+    "express",
+    "node",
+    "mern"
+  ],
+  "author": "Filbert Shi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sporego/filbert.io/issues"
+  },
+  "homepage": "https://github.com/Sporego/filbert.io#readme"
+}
